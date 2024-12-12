@@ -1,4 +1,3 @@
-
 # Общая теория интеллектуальных систем
 
 ## Задания
@@ -17,17 +16,17 @@
 
 | №  | ФИО                  | Directory name              | #0 | #1 | #2 | #3 | #4 | #5 | #6 | Рейтинг |
 |----|----------------------|-----------------------------|----|----|----|----|----|----|----|---------|
-| 1  | Заседатель Никита    |[ii02509](./trunk/ii02509/)|✅|✅|||||||
+| 1  | Заседатель Никита    |[ii02509](./trunk/ii02509/)|✅|✅|✅||||||
 | 2  | Гродзинский Алексей  |[ii0230279](./trunk/ii0230279/)|✅|✅||||||
-| 3  | Андреюк Максим       |[ii02503](./truk/ii02503/)|✅|✅|||||||
+| 3  | Андреюк Максим       |[ii02503](./truk/ii02503/)|✅|✅|✅||||||
 | 4  | Подгайский Денис     |[ii0230293](./trunk/ii0230293)|✅|✅|||||||
-| 5  | Мохорева Татьяна     |[ii0230290](trunk/ii0230290/)|✅|✅|||||||
-| 6  |Трошин Иван|[ii02506](trunk/ii02506)|✅|✅|✅|✅|✅||||
-| 7  | Бекназарова Анжелика |[ii0230277](./trunk/ii0230277/)|✅|✅|||||||
-| 8  |Елец Юлия |[ii02508](trunk/ii02508)|✅|✅|✅|✅|||||
+| 5  | Мохорева Татьяна     |[ii0230290](trunk/ii0230290/)|✅|✅|✅||||||
+| 6  |Трошин Иван|[ii02506](trunk/ii02506)|✅|✅|✅|✅|✅|✅|||
+| 7  | Бекназарова Анжелика |[ii0230277](./trunk/ii0230277/)|✅|✅|✅||||||
+| 8  |Елец Юлия |[ii02508](trunk/ii02508)|✅|✅|✅|✅|✅||||
 | 9  | Сидорчук Артём       ||||||||||
-| 10 | Кулик Яна            |[ii0230285](./trunk/ii0230285/)|✅|✅|||||||
-| 11 | Борис Жук            ||||||||||
+| 10 | Кулик Яна            |[ii0230285](./trunk/ii0230285/)|✅|✅|✅||||||
+| 11 | Борис Жук            |[ii0230282](./trunk/ii0230282)|✅|✅|✅||||||
 | 12 | Милевский Артем      |[ii230289](trunk/ii230289)|✅|✅|✅||||||
 | 13 | Глеб Горбат          |[ii0230278](./trunk/ii0230278/)|✅|✅|✅|✅|✅||||
 | 14 | Евгений Скачков      | [ii0230297](./trunk/ii0230297/)   |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||
@@ -64,7 +63,7 @@
 |13|Алексей Хитренко||||||||||
 |14|Вирко Егор|[ii002601](./trunk/ii002601/)|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||
 |15|Данилюк Тимофей|[ii02602](./trunk/ii02602/)|:white_check_mark:|:white_check_mark:|:white_check_mark:||:white_check_mark:|||||
-|16|Заруцкий Владислав |[ii02604](./trunk/ii02604/)|:white_check_mark:|:white_check_mark:|:white_check_mark:||:white_check_mark:|||||
+|16|Заруцкий Владислав |[ii02604](./trunk/ii02604/)|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||
 |17|Згера Егор|[ii02605](./trunk/ii02605/)|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||
 |18|Карпович Ксения|[ii02606](./trunk/ii02606/)|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||
 |19|Ковальчук Артем|[ii00230308](./trunk/ii00230308/)|:white_check_mark:|:white_check_mark:|:white_check_mark:|✅|:white_check_mark:|||||
@@ -73,5 +72,6 @@
 |22|Петручик Дмитрий|[ii02610](./trunk/ii02610/)|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||
 |23|Пилипук Максим|[ii02611](./trunk/ii02611/)|:white_check_mark:|:white_check_mark:|:white_check_mark:||:white_check_mark:||||
 |24|Прокопюк Артем|[ii02612](./trunk/ii02612/)|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||
-|25|Рубцов Дмитрий|[ii02613](./trunk/ii02613/)|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||
+|25|Рубцов Дмитрий|[ii02613](./trunk/ii02613/)|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||
 |26|Ерошин Егор|[ii00230304](./trunk/ii00230304/)|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||
+
